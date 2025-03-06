@@ -24,10 +24,3 @@ dist-ssr
 *.sw?
 .env
 .env
-
-VITE_API_KEY = "AIzaSyB0CmysjSDFEMKYeBIKFCd3sU-jCZjjU1U"
-VITE_AUTH_DOMAIN = "daily-report-delete.firebaseapp.com"
-VITE_PROJECT_ID = "daily-report-delete"
-VITE_DTORAGE_BUCKET ="daily-report-delete.firebasestorage.app"
-VITE_MESSAGING_SEBDER_ID = "284631210854"
-APP_ID = "1:284631210854:web:e4fe75885d39a228e846a7"
